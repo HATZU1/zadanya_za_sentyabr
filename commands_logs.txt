@@ -3,3 +3,7 @@ cd
 ls
 touch {}
 nano
+cp 
+git commit 
+git push 
+git add
